@@ -1,6 +1,5 @@
 1. Innotomy profile
-2. Anoop profile
-3. Machine learning
-4. Deep learning
-5. Usecases
-6. Compute Resources
+2. Anoop Kulkarni's profile
+3. Compute Environments
+4. AI Usecases - Summary
+5. AI Use-cases - Detailed
